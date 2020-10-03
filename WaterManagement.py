@@ -3,10 +3,10 @@ import sqlite3
 
 
 #----------------------------------------------------------------------
-broker_address= "tailor.cloudmqtt.com"
+broker_address= "<broker IP Address>"
 port = 18753 #portNumber
-user = "ymcnjbxy"
-password = "1pY8vciDPRor"
+user = "<username>"
+password = "<password>"
 topic = "server"
 #----------------------------------------------------------------------
     

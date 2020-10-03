@@ -15,5 +15,7 @@ Global warming being a great issue of this era, requires solutions which help th
 * It allows the admin to control the amount of water distributed to each user based on continuous evaluation. 
 * It can also be used for remotely controlling the water flow, cutting the water supply, monitoring and analyzing the water consumption across different users, with the help of cross platform app and cloud connectivity. 
 * Furthermore statistical data gathered can be used by govt. authorities for defining policies, strategies and billing calculations.
- 
+
+<p align="center"><br><br><img src="SS (1).jpeg" width="500" alt="accessibility text"></p><br><br>
+<p align="center"><br><br><img src="SS (2).jpeg" width="500" alt="accessibility text"></p><br><br>
 
